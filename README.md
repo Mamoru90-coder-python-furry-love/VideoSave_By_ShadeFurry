@@ -1,8 +1,8 @@
 # VideoSave_By_ShadeFurry
 
 ⚠️ **УВАГА / ATTENTION** ⚠️
-Цей репозиторій створений виключно для автоматичного оновлення програми. 
-**Завантажувати та встановлювати файли звідси вручну ЗАБОРОНЕНО.**
+**Цей репозиторій використовується для автооновлення.
+Ручне використання файлів не підтримується.**
 
-This repository is strictly for automatic program updates. 
-**Manual downloading is PROHIBITED.**
+**This repository is used for auto-updating.
+Manual use of files is not supported.**
